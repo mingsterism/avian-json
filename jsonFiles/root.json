@@ -352,8 +352,8 @@
               "highlights": [
                 "basic invoicing",
                 "easy to use acouting",
-                "multi accounts", 
-                "test accounts", 
+                "multi accounts",
+                "test accounts",
                 "unlimited users"
               ],
               "mostPopular": false,
@@ -519,13 +519,13 @@
     ]
   },
   {
-    "page": "/solution/workflow-management",
+    "page": "/solution/solution-b",
     "components": [
       {
-        "id": "Hero_1",
+        "id": "Hero_2",
         "content": {
-          "header": "header",
-          "highlightHeader": "highlightHeader",
+          "header": "The ultimate",
+          "highlightHeader": "solution B",
           "description": "description",
           "primaryButton": "primaryButton",
           "secondaryButton": "secondaryButton",
@@ -621,7 +621,7 @@
       {
         "id": "Blog_2",
         "content": {
-          "header": "header",
+          "header": "Our latest insights",
           "description": "description",
           "blogCards": [
             {
@@ -719,31 +719,17 @@
     ]
   },
   {
-    "page": "/solution/workflow-management",
+    "page": "/solution/solution-a",
     "components": [
       {
         "id": "Hero_2",
         "content": {
-          "header": "Some headline",
-          "highlightHeader": "for restaurants",
-          "description": "description",
-          "primaryButton": "primaryButton",
-          "secondaryButton": "secondaryButton"
-        }
-      },
-      {
-        "id": "LogoClouds_2",
-        "content": {
-          "header": "header",
+          "header": "Ultimate solution ",
+          "highlightHeader": "A",
           "description": "description",
           "primaryButton": "primaryButton",
           "secondaryButton": "secondaryButton",
-          "logos": [
-            {
-              "name": "name",
-              "url": "url"
-            }
-          ]
+          "primaryImg": "https://tailwindui.com/img/component-images/top-nav-with-multi-column-layout-screenshot.jpg"
         }
       },
       {
@@ -835,7 +821,7 @@
       {
         "id": "Blog_2",
         "content": {
-          "header": "header",
+          "header": "Our latest insights",
           "description": "description",
           "blogCards": [
             {
@@ -878,6 +864,30 @@
         }
       },
       {
+        "id": "FAQ_2",
+        "content": {
+          "header": "Frequently Asked Questions",
+          "questions": [
+            {
+              "question": "question 1",
+              "answer": "answer 1"
+            },
+            {
+              "question": "question 1",
+              "answer": "answer 1"
+            },
+            {
+              "question": "question 1",
+              "answer": "answer 1"
+            },
+            {
+              "question": "question 1",
+              "answer": "answer 1"
+            }
+          ]
+        }
+      },
+      {
         "id": "Contact_2",
         "content": {
           "phone": "phone no.",
@@ -905,82 +915,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "FAQ_2",
-        "content": {
-          "header": "header",
-          "questions": [
-            {
-              "question": "question 1",
-              "answer": "answer 1"
-            },
-            {
-              "question": "question 1",
-              "answer": "answer 1"
-            },
-            {
-              "question": "question 1",
-              "answer": "answer 1"
-            },
-            {
-              "question": "question 1",
-              "answer": "answer 1"
-            }
-          ]
-        }
-      },
-      {
-        "id": "Newsletter_1",
-        "content": {
-          "header": "header",
-          "description": "description",
-          "primaryButton": "primaryButton",
-          "inputDescription": "inputDescription"
-        }
-      },
-      {
-        "id": "Pricing_3",
-        "content": {
-          "headline": "headline",
-          "description": "description",
-          "primaryAction": "Primary Action",
-          "secondaryAction": "Secondary Action",
-          "infoText": [
-            {
-              "title": "some title",
-              "description": "this is some description",
-              "icon": ""
-            },
-            {
-              "title": "some title",
-              "description": "this is some description",
-              "icon": ""
-            },
-            {
-              "title": "some title",
-              "description": "this is some description",
-              "icon": ""
-            }
-          ],
-          "plusPoints": [
-            "Unlimited projects",
-            "unlimited storage",
-            "cancel anytime",
-            "Full capacity"
-          ],
-          "plans": [
-            {
-              "name": "name",
-              "price": "price",
-              "description": "description",
-              "features": [
-                "feature"
-              ],
-              "mostPopular": false
-            }
-          ]
-        }
       }
     ]
   },
@@ -990,26 +924,11 @@
       {
         "id": "Hero_2",
         "content": {
-          "header": "The restaurant operating system",
-          "highlightHeader": "for restaurants",
+          "header": "Feature B",
+          "highlightHeader": "The ultimate feature",
           "description": "description",
           "primaryButton": "primaryButton",
           "secondaryButton": "secondaryButton"
-        }
-      },
-      {
-        "id": "LogoClouds_2",
-        "content": {
-          "header": "header",
-          "description": "description",
-          "primaryButton": "primaryButton",
-          "secondaryButton": "secondaryButton",
-          "logos": [
-            {
-              "name": "name",
-              "url": "url"
-            }
-          ]
         }
       },
       {
@@ -1256,8 +1175,8 @@
       {
         "id": "Hero_2",
         "content": {
-          "header": "The restaurant operating system",
-          "highlightHeader": "for restaurants",
+          "header": "Feature A",
+          "highlightHeader": "The killer feature",
           "description": "description",
           "primaryButton": "primaryButton",
           "secondaryButton": "secondaryButton"

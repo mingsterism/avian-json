@@ -45,7 +45,7 @@
         "name": "workflow management",
         "logo": "some logo",
         "description": "some description",
-        "url": "/solution/workflow-management"
+        "url": "/solution/solution-a"
       },
       {
         "name": "Watch Demo",
@@ -61,37 +61,16 @@
         {
           "svgPath": "",
           "logo": "someLogo",
-          "name": "workflows",
+          "name": "Solution A",
           "description": "this is some description",
-          "url": "/solution/workflow-management"
+          "url": "/solution/solution-b"
         },
         {
           "svgPath": "",
           "logo": "someLogo",
-          "name": "process automation",
+          "name": "Solution B",
           "description": "Automate data entry",
-          "url": "/solution/process-automation"
-        },
-        {
-          "svgPath": "",
-          "logo": "someLogo",
-          "name": "name title",
-          "description": "Automate data entry",
-          "url": "/solution/workflow-management"
-        },
-        {
-          "svgPath": "",
-          "logo": "someLogo",
-          "name": "name title",
-          "description": "Automate data entry",
-          "url": "/solution/workflow-management"
-        },
-        {
-          "svgPath": "",
-          "logo": "someLogo",
-          "name": "name title",
-          "description": "Automate data entry",
-          "url": "/someUrl"
+          "url": "/solution/solution-b"
         }
       ]
     }
@@ -125,37 +104,16 @@
         {
           "svgPath": "",
           "logo": "someLogo",
-          "name": "featurea",
+          "name": "Feature A",
           "description": "this is some description",
           "url": "/feature/featurea"
         },
         {
           "svgPath": "",
           "logo": "someLogo",
-          "name": "nav name title",
+          "name": "Feature B",
           "description": "Automate data entry",
-          "url": "/someUrl"
-        },
-        {
-          "svgPath": "",
-          "logo": "someLogo",
-          "name": "name title",
-          "description": "Automate data entry",
-          "url": "/someUrl"
-        },
-        {
-          "svgPath": "",
-          "logo": "someLogo",
-          "name": "name title",
-          "description": "Automate data entry",
-          "url": "/someUrl"
-        },
-        {
-          "svgPath": "",
-          "logo": "someLogo",
-          "name": "name title",
-          "description": "Automate data entry",
-          "url": "/someUrl"
+          "url": "/feature/featureb"
         }
       ]
     }
