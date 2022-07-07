@@ -29,14 +29,6 @@
   },
   {
     "location": "right",
-    "name": "Sign Up",
-    "type": "action-button",
-    "subType": "primary",
-    "href": "/about",
-    "child": []
-  },
-  {
-    "location": "right",
     "name": "Sign In",
     "type": "action-button",
     "subType": "secondary",
@@ -50,10 +42,10 @@
     "href": "/more",
     "cta": [
       {
-        "name": "Watch Demo",
+        "name": "workflow management",
         "logo": "some logo",
         "description": "some description",
-        "url": "/someUrl"
+        "url": "/solution/workflow-management"
       },
       {
         "name": "Watch Demo",
@@ -65,35 +57,34 @@
     "child_type": "single-nav-expand",
     "child": {
       "type": "single-nav-column",
-      "header": "Features",
       "content": [
         {
           "svgPath": "",
           "logo": "someLogo",
-          "name": "Automate data entry",
+          "name": "workflows",
           "description": "this is some description",
-          "url": "/someUrl"
+          "url": "/solution/workflow-management"
         },
         {
           "svgPath": "",
           "logo": "someLogo",
-          "name": "nav name title",
+          "name": "process automation",
           "description": "Automate data entry",
-          "url": "/someUrl"
-        },
-        {
-          "svgPath": "",
-          "logo": "someLogo",
-          "name": "name title",
-          "description": "Automate data entry",
-          "url": "/someUrl"
+          "url": "/solution/process-automation"
         },
         {
           "svgPath": "",
           "logo": "someLogo",
           "name": "name title",
           "description": "Automate data entry",
-          "url": "/someUrl"
+          "url": "/solution/workflow-management"
+        },
+        {
+          "svgPath": "",
+          "logo": "someLogo",
+          "name": "name title",
+          "description": "Automate data entry",
+          "url": "/solution/workflow-management"
         },
         {
           "svgPath": "",
@@ -109,7 +100,7 @@
     "location": "left",
     "name": "Features",
     "type": "text",
-    "href": "/more",
+    "href": "",
     "cta": [
       {
         "name": "Watch Demo",
@@ -134,9 +125,9 @@
         {
           "svgPath": "",
           "logo": "someLogo",
-          "name": "Automate data entry",
+          "name": "featurea",
           "description": "this is some description",
-          "url": "/someUrl"
+          "url": "/feature/featurea"
         },
         {
           "svgPath": "",
