@@ -11,7 +11,7 @@
 				"primaryUrl": "",
 				"secondaryButton": "Contact us",
 				"secondaryUrl": "",
-				"primaryImg": "https://tailwindui.com/img/component-images/top-nav-with-multi-column-layout-screenshot.jpg"
+				"primaryImg": "process.png"
 			}
 		},
 		{
@@ -52,7 +52,7 @@
 						"alignment": "right",
 						"featureHeader": "Track and monitor your company",
 						"featureDescription": "Gain unique insights into how your company is operating and performing through a single dashboard",
-						"img": "https://tailwindui.com/img/features/feature-example-1.png",
+						"img": "dashboard.png",
 						"subFeatures": [
 							{
 								"subFeatureName": "Figure out your bottlenecks",
