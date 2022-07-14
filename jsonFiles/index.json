@@ -52,7 +52,7 @@
 						"alignment": "right",
 						"featureHeader": "Track and monitor your company",
 						"featureDescription": "Gain unique insights into how your company is operating and performing through a single dashboard",
-						"img": "dashboard.png",
+						"img": "dashboard.svg",
 						"subFeatures": [
 							{
 								"subFeatureName": "Figure out your bottlenecks",
@@ -72,7 +72,7 @@
 						"alignment": "left",
 						"featureHeader": "Digitize your business processes",
 						"featureDescription": "Make your business more attractive to investors and lenders by improving Environment, Sustainability and Governance",
-						"img": "https://tailwindui.com/img/features/feature-example-1.png",
+						"img": "simulator.svg",
 						"subFeatures": [
 							{
 								"subFeatureName": "Standardize your business processes",
@@ -92,7 +92,7 @@
 						"alignment": "right",
 						"featureHeader": "Build Custom Forms",
 						"featureDescription": "Power the entire company by utilizing forms for every request or action.",
-						"img": "https://tailwindui.com/img/features/feature-example-2.png",
+						"img": "form-detail.svg",
 						"subFeatures": [
 							{
 								"subFeatureName": "Custom form builder",
@@ -108,7 +108,7 @@
 						"alignment": "left",
 						"featureHeader": "Document Generator",
 						"featureDescription": "Generate custom documents through each process.",
-						"img": "https://tailwindui.com/img/features/feature-example-2.png",
+						"img": "document-builder.svg",
 						"subFeatures": [
 							{
 								"subFeatureName": "Document Templates",
