@@ -1,31 +1,24 @@
 [
-	{
-		"location": "left",
-		"type": "logo",
-		"href": "/",
-		"src": "avianflow-logo.svg",
-		"child": []
-	},
-	{
-		"location": "right",
-		"name": "About",
-		"type": "text",
-		"href": "/about-us",
-		"child": []
-	},
-	{
-		"location": "right",
-		"name": "Contact Us",
-		"type": "text",
-		"href": "/contact",
-		"child": []
-	},
-	{
-		"location": "right",
-		"name": "Register interest",
-		"type": "action-button",
-		"subType": "primary",
-		"href": "/about",
-		"child": []
-	}
+  {
+    "location": "left",
+    "type": "logo",
+    "href": "/",
+    "src": "avianflow-logo.svg",
+    "child": []
+  },
+  {
+    "location": "right",
+    "name": "Blog",
+    "type": "text",
+    "href": "/blog",
+    "child": []
+  },
+  {
+    "location": "right",
+    "name": "Register interest",
+    "type": "action-button",
+    "subType": "primary",
+    "href": "/register-interest",
+    "child": []
+  }
 ]
