@@ -8,9 +8,9 @@
   },
   {
     "location": "right",
-    "name": "Blog",
+    "name": "Insights",
     "type": "text",
-    "href": "/blog",
+    "href": "/blogs",
     "child": []
   },
   {
